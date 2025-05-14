@@ -77,7 +77,7 @@ Feel free to fork the repo and suggest improvements or enhancements to the dashb
 
 For questions, collaborations, or customizations, feel free to reach out:
 
-**Name:** Pervez Alam 
+**Name:** **Pervez Alam**  
 **📧 Email:** [pervezalam1234567@gmail.com](mailto:pervezalam1234567@gmail.com)  
 **🔗 LinkedIn:** [linkedin.com/in/pervez-alam1](http://www.linkedin.com/in/pervez-alam1)  
 **💻 GitHub:** [github.com/PERVEZ-ALAM1234567](https://github.com/PERVEZ-ALAM1234567)
