@@ -43,12 +43,11 @@ The dashboard is designed with the following features:
 
 ## 🛠 Tools Used
 
-- **Microsoft Excel 2016+ / Office 365**
+- **Microsoft Excel 2016+**
 - Pivot Tables and Pivot Charts
 - Conditional Formatting
 - Data Validation and Drop-downs
 - Slicers & Timelines
-- Maps (Power Map or Excel 3D Maps if enabled)
 
 ---
 
