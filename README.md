@@ -3,7 +3,7 @@
 This project presents an interactive **Excel Dashboard** built on a dataset containing detailed demographic, geographic, financial, and customer feedback data. The purpose of this dashboard is to analyze trends, extract insights, and support decision-making processes through visual and tabular summaries.
 
 ---
-## Screnshot
+## 📸 Screnshot
 ![SharedScreenshot](https://github.com/user-attachments/assets/7678f0b8-f516-4bae-aad5-ee2fe21fedd7)
 
 
